@@ -1,11 +1,8 @@
 <p align='justify'>
-I am a M.Sc. student at the Electrical and Electronics Engineering department in Bilkent University/KocLab under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Aykut Koc</a>. scientist in the
-<b>Fundamental AI Research (FAIR)</b>
-group at
-<b>Meta AI</b>
-in NYC and study foundational topics in <b>machine learning</b> and
-<b>optimization</b>, recently involving reinforcement learning, control,
-optimal transport, and geometry.
+I am a M.Sc. student at the Electrical and Electronics Engineering department in Bilkent University/KocLab under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Aykut Koc</a>. My main research interests includes
+<b> Machine Learning </b>, <b> Deep Learning </b> and <b> Signal Processing </b> with an emphasis on statistical point of view and mathematical foundations.
+
+
 My research is on learning systems that understand and interact with our world
 and focuses on integrating structural information and domain knowledge into
 these systems to represent non-trivial reasoning operations.
