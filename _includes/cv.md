@@ -1,7 +1,5 @@
 <p align='justify'>
-I am a M.Sc. student at the Electrical and Electronics Engineering department in Bilkent University/KocLab under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">GitHub</a>
-
-scientist in the
+I am a M.Sc. student at the Electrical and Electronics Engineering department in Bilkent University/KocLab under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank">Aykut Koc</a>. scientist in the
 <b>Fundamental AI Research (FAIR)</b>
 group at
 <b>Meta AI</b>
