@@ -146,3 +146,7 @@ Pytorch, Tensorflow, HuggingFace
   </td>
 </tr>
 </table>
+
+<br>
+
+Template is from <a href="https://bamos.github.io/" target="_blank"> Brandon Amos</a>
