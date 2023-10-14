@@ -52,7 +52,7 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
     onclick='$("#frac").toggle()'>Abstract</a>]  <br>
  <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
 <br>
-IEEE Signal Processing Letters, 2022 <br>
+IEEE Signal Processing Letters, 2022<br>
 
 <div id="frac" style="text-align: justify; display: none" markdown="1">
 Several signal processing tools are integrated into machine learning models for performance and computational cost improvements. Fourier transform (FT) and its variants, which are powerful tools for spectral analysis, are employed in the prediction of univariate time series by converting them to sequences in the spectral domain to be processed further by recurrent neural networks (RNNs). This approach increases the prediction performance and reduces training time compared to conventional methods. In this letter, we introduce fractional Fourier transform (FrFT) to time series prediction by RNNs. As a parametric transformation, FrFT allows us to seek and select better-performing transformation domains by providing access to a continuum of domains between time and frequency. This flexibility yields significant improvements in the prediction power of the underlying models without sacrificing computational efficiency. We evaluated our FrFT-based time series prediction approach on synthetic and real-world datasets. Our results show that FrFT gives rise to performance improvements over ordinary FT.
