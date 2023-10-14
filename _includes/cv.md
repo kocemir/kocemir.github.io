@@ -68,7 +68,7 @@ Several signal processing tools are integrated into machine learning models for 
 </td>
 <td>
 <a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'><img src="images/publications/transformer_renewed.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-<em><a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'>Multivariate Time Series Imputation With Transformers</a> </em> 
+<em><a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'>Fractional Fourier Transform in Time Series Prediction</a> </em> 
 [<a href='javascript:;'
     onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
 Ayberk Yarkın Yıldız, <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
@@ -77,6 +77,28 @@ IEEE Signal Processing Letters <br>
 
 <div id="mvtsit" style="text-align: justify; display: none" markdown="1">
 Processing time series with missing segments is a fundamental challenge that puts obstacles to advanced analysis in various disciplines such as engineering, medicine, and economics. One of the remedies is imputation to fill the missing values based on observed values properly without undermining performance. We propose the Multivariate Time-Series Imputation with Transformers (MTSIT), a novel method that uses transformer architecture in an unsupervised manner for missing value imputation. Unlike the existing transformer architectures, this model only uses the encoder part of the transformer due to computational benefits. Crucially, MTSIT trains the autoencoder by jointly reconstructing and imputing stochastically-masked inputs via an objective designed for multivariate time-series data. The trained autoencoder is then evaluated for imputing both simulated and real missing values. Experiments show that MTSIT outperforms state-of-the-art imputation methods over benchmark datasets.
+</div>
+
+</td>
+</tr>
+
+
+<tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
+<td align='right' style='padding-left:0;padding-right:0;'>
+
+3.
+</td>
+<td>
+<a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'><img src="images/publications/transformer_renewed.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+<em><a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'>Adaptive Boosting of DNN Ensembles for Brain-Computer Interface Spellers</a> </em> 
+[<a href='javascript:;'
+    onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
+Osman Berke Güney, <strong>Emirhan&nbsp;Koç</strong>, Can Aksoy, Yiğit Çatak, Şuayip S. Arslan, Hüseyin Özkan
+<br>
+IEEE Signal Processing and Communication Applications Conference (SIU) <br>
+
+<div id="mvtsit" style="text-align: justify; display: none" markdown="1">
+Steady-state visual evoked potentials (SSVEP) are commonly used in brain computer interface (BCI) applications such as spelling systems, due to their advantages over other paradigms. In this study, we develop a method for SSVEP-based BCI speller systems, using a known deep neural network (DNN), which includes transfer and ensemble learning techniques. We test performance of our method on publicly available benchmark and BETA datasets with leave-one-subject-out procedure. Our method consists of two stages. In the first stage, a global DNN is trained using data from all subjects except one subject that is excluded for testing. In the second stage, the global model is fine-tuned to each subject whose data are used in the training. Combining the responses of trained DNNs with different weights for each test subject, rather than an equal weight, provide better performance as brain signals may differ significantly between individuals. To this end, weights of DNNs are learnt with SAMME algorithm with using data belonging to the test subject. Our method significantly outperforms canonical correlation analysis (CCA) and filter bank canonical correlation analysis (FBCCA) methods.
 </div>
 
 </td>
