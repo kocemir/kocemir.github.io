@@ -91,12 +91,12 @@ Processing time series with missing segments is a fundamental challenge that put
 <td>
 <em><a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'>Adaptive Boosting of DNN Ensembles for Brain-Computer Interface Spellers</a> </em> 
 [<a href='javascript:;'
-    onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
+    onclick='$("#adaptive").toggle()'>Abstract</a>]  <br>
 Osman Berke Güney, <strong>Emirhan&nbsp;Koç</strong>, Can Aksoy, Yiğit Çatak, Şuayip S. Arslan, Hüseyin Özkan
 <br>
 IEEE Signal Processing and Communication Applications Conference (SIU), 2021 <br>
 
-<div id="mvtsit" style="text-align: justify; display: none" markdown="1">
+<div id="adaptive" style="text-align: justify; display: none" markdown="1">
 Steady-state visual evoked potentials (SSVEP) are commonly used in brain computer interface (BCI) applications such as spelling systems, due to their advantages over other paradigms. In this study, we develop a method for SSVEP-based BCI speller systems, using a known deep neural network (DNN), which includes transfer and ensemble learning techniques. We test performance of our method on publicly available benchmark and BETA datasets with leave-one-subject-out procedure. Our method consists of two stages. In the first stage, a global DNN is trained using data from all subjects except one subject that is excluded for testing. In the second stage, the global model is fine-tuned to each subject whose data are used in the training. Combining the responses of trained DNNs with different weights for each test subject, rather than an equal weight, provide better performance as brain signals may differ significantly between individuals. To this end, weights of DNNs are learnt with SAMME algorithm with using data belonging to the test subject. Our method significantly outperforms canonical correlation analysis (CCA) and filter bank canonical correlation analysis (FBCCA) methods.
 </div>
 
