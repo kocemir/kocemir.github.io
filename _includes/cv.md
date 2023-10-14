@@ -46,29 +46,16 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
 1.
 </td>
 <td>
-<a href='https://arxiv.org/abs/2206.05262' target='_blank'><img src="images/publications/amos2023meta.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-<em><a href='https://arxiv.org/abs/2206.05262' target='_blank'>Meta Optimal Transport</a> </em> 
+<a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'><img src="images/publications/amos2023meta.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+<em><a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'>Multivariate Time Series Imputation With Transformers</a> </em> 
 [<a href='javascript:;'
-    onclick='$("#abs_amos2023meta").toggle()'>abs</a>] [<a href='https://github.com/facebookresearch/meta-ot' target='_blank'>code</a>] <br>
-<strong>Brandon&nbsp;Amos</strong>, <a href='https://scholar.google.com/citations?user=CmdjfTsAAAAJ' target='_blank'>Samuel&nbsp;Cohen</a>, <a href='https://giulslu.github.io/' target='_blank'>Giulia&nbsp;Luise</a>, and <a href='https://ievred.github.io' target='_blank'>Ievgen&nbsp;Redko</a><br>
-ICML 2023  <br>
+    onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
+Ayberk Yarkın Yıldız, <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
+<br>
+IEEE Signal Processing Letters <br>
 
-<div id="abs_amos2023meta" style="text-align: justify; display: none" markdown="1">
-We study the use of amortized optimization to predict optimal
-transport (OT) maps from the input measures, which
-we call Meta OT. This helps repeatedly solve similar
-OT problems between different measures by leveraging
-the knowledge and information present from past
-problems to rapidly predict and solve new
-problems. Otherwise, standard methods ignore the
-knowledge of the past solutions and suboptimally
-re-solve each problem from scratch. Meta OT models
-surpass the standard convergence rates of
-log-Sinkhorn solvers in the discrete setting and
-convex potentials in the continuous setting. We
-improve the computational time of standard OT
-solvers by multiple orders of magnitude in discrete
-and continuous transport settings between images, spherical data, and color palettes.
+<div id="mvtsit" style="text-align: justify; display: none" markdown="1">
+Processing time series with missing segments is a fundamental challenge that puts obstacles to advanced analysis in various disciplines such as engineering, medicine, and economics. One of the remedies is imputation to fill the missing values based on observed values properly without undermining performance. We propose the Multivariate Time-Series Imputation with Transformers (MTSIT), a novel method that uses transformer architecture in an unsupervised manner for missing value imputation. Unlike the existing transformer architectures, this model only uses the encoder part of the transformer due to computational benefits. Crucially, MTSIT trains the autoencoder by jointly reconstructing and imputing stochastically-masked inputs via an objective designed for multivariate time-series data. The trained autoencoder is then evaluated for imputing both simulated and real missing values. Experiments show that MTSIT outperforms state-of-the-art imputation methods over benchmark datasets.
 </div>
 
 </td>
