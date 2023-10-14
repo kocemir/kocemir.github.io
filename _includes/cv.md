@@ -12,13 +12,12 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
   <tr>
     <td>
       <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
-      <strong>Ph.D. in Computer Science</strong>, <em>Carnegie Mellon University</em>
-        (0.00/0.00)
+      <strong>M.Sc. in Electrical and Electronics Engineering</strong>   
       <br>
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Thesis: *<a href="https://github.com/bamos/thesis" target="_blank">Differentiable Optimization-Based Modeling for Machine Learning</a>*
-        <br> Advisor: <a href="http://zicokolter.com" target="_blank">J. Zico Kolter</a>
-        </p>
+        <br> Bilkent University | Ankara, TR
+         <br> Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
+ 
     </td>
   </tr>
   <tr>
@@ -27,9 +26,9 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
       <strong>B.S. in Electronics Engineering</strong>
        <br>
          <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Thesis: *<a href="https://github.com/bamos/thesis" target="_blank">Differentiable Optimization-Based Modeling for Machine Learning</a>*
-        <br> Advisor: <a href="http://zicokolter.com" target="_blank">J. Zico Kolter</a>
-        </p>
+        <br> Sabancı University | Ankara, TR
+        
+      
 
     </td>
   </tr>
