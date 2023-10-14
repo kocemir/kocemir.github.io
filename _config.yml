@@ -1,7 +1,7 @@
-name: Brandon Amos
-url: http://bamos.github.io
+name: Emirhan Koç
+url: http://kocemir.github.io
 destination: ./_site
-twitter: brandondamos
+twitter: benemirhankoc
 lsi: false
 port: 4000
 markdown: kramdown
