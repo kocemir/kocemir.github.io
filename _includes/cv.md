@@ -30,71 +30,11 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Honors & Awards
-<table class="table table-hover">
-<tr>
-  <td>
-  <div style='float: right'>2022</div>
-  <div>
-        <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS Top Reviewer</a>
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2022</div>
-  <div>
-        <a href="https://icml.cc/Conferences/2022/Reviewers">ICML Outstanding Reviewer</a>
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2022</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2019</div>
-  <div>
-        <a href="https://iclr.cc/Conferences/2019/Awards">ICLR Outstanding Reviewer</a>
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2019</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2016&nbsp;-&nbsp;2019</div>
-  <div>
-        NSF Graduate Research Fellowship
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2016&nbsp;-&nbsp;2019</td> -->
-</tr>
-<tr>
-  <td>
-  <div style='float: right'>2011&nbsp;-&nbsp;2014</div>
-  <div>
-        Nine undergraduate scholarships
-    <br><p style="color:grey;font-size:1.2rem">Roanoke County Public Schools Engineering,
-Salem-Roanoke County Chamber of Commerce,
-Papa John's,
-Scottish Rite of Freemasonry,
-VT Intelligence Community Conter for Academic Excellence,
-VT Pamplin Leader,
-VT Benjamin F. Bock, VT Gay B. Shober, VT I. Luck Gravett
-</p>
-  </div>
-  </td>
-  <!-- <td class='col-md-2' style='text-align:right;'>2011&nbsp;-&nbsp;2014</td> -->
-</tr>
-</table>
 
 
 ## <i class="fa fa-chevron-right"></i> Publications
 
-<!-- [<a href="https://github.com/bamos/cv/blob/master/publications/all.bib">BibTeX</a>] -->
-Selected publications are <span style='background-color: #ffffd0'>highlighted.</span>
-<!-- I most frequently publish at ICML (10 papers), NeurIPS (9 papers), and ICLR (5 papers). -->
-<br>
-[<a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ">Google Scholar</a>: 6.8k+ citations and an h-index of 33.]
+[<a href="https://scholar.google.com/citations?user=eUaNFf0AAAAJ&hl=tr&oi=ao">Google Scholar</a>]
 <br>
 
 <h2>2023</h2>
