@@ -11,21 +11,20 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
 <table class="table table-hover">
   <tr>
     <td>
-      <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
+      <span class='cvdate'>2021&nbsp;-&nbsp;2024</span>
       <strong>M.Sc. in Electrical and Electronics Engineering</strong>   
       <br>
-        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Bilkent University | Ankara, TR
-         <br> Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
+      Bilkent University | Ankara, TR
+      <br>
+      Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
     </td>
   </tr>
   <tr>
     <td>
       <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
       <strong>B.S. in Electronics Engineering</strong>
-       <br>
-         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Sabancı University | Ankara, TR
+      <br>
+      Sabancı University | Ankara, TR
     </td>
   </tr>
 </table>
