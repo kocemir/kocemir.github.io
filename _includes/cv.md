@@ -24,8 +24,10 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
   <tr>
     <td>
       <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
-      <strong>B.S. in Electronics Engineering</strong>, <em>Sabancı University</em>
-      <br>
+      <strong>B.S. in Electronics Engineering</strong>
+      <em>Sabancı University</em>
+   
+
     </td>
   </tr>
 </table>
