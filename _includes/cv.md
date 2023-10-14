@@ -17,7 +17,6 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Bilkent University | Ankara, TR
          <br> Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
- 
     </td>
   </tr>
   <tr>
@@ -27,9 +26,6 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
        <br>
          <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
         <br> Sabancı University | Ankara, TR
-        
-      
-
     </td>
   </tr>
 </table>
