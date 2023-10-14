@@ -52,7 +52,7 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
     onclick='$("#frac").toggle()'>Abstract</a>]  <br>
  <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
 <br>
-IEEE Signal Processing Letters <br>
+IEEE Signal Processing Letters, 2022 <br>
 
 <div id="frac" style="text-align: justify; display: none" markdown="1">
 Several signal processing tools are integrated into machine learning models for performance and computational cost improvements. Fourier transform (FT) and its variants, which are powerful tools for spectral analysis, are employed in the prediction of univariate time series by converting them to sequences in the spectral domain to be processed further by recurrent neural networks (RNNs). This approach increases the prediction performance and reduces training time compared to conventional methods. In this letter, we introduce fractional Fourier transform (FrFT) to time series prediction by RNNs. As a parametric transformation, FrFT allows us to seek and select better-performing transformation domains by providing access to a continuum of domains between time and frequency. This flexibility yields significant improvements in the prediction power of the underlying models without sacrificing computational efficiency. We evaluated our FrFT-based time series prediction approach on synthetic and real-world datasets. Our results show that FrFT gives rise to performance improvements over ordinary FT.
@@ -73,7 +73,7 @@ Several signal processing tools are integrated into machine learning models for 
     onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
 Ayberk Yarkın Yıldız, <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
 <br>
-IEEE Signal Processing Letters <br>
+IEEE Signal Processing Letters, 2022 <br>
 
 <div id="mvtsit" style="text-align: justify; display: none" markdown="1">
 Processing time series with missing segments is a fundamental challenge that puts obstacles to advanced analysis in various disciplines such as engineering, medicine, and economics. One of the remedies is imputation to fill the missing values based on observed values properly without undermining performance. We propose the Multivariate Time-Series Imputation with Transformers (MTSIT), a novel method that uses transformer architecture in an unsupervised manner for missing value imputation. Unlike the existing transformer architectures, this model only uses the encoder part of the transformer due to computational benefits. Crucially, MTSIT trains the autoencoder by jointly reconstructing and imputing stochastically-masked inputs via an objective designed for multivariate time-series data. The trained autoencoder is then evaluated for imputing both simulated and real missing values. Experiments show that MTSIT outperforms state-of-the-art imputation methods over benchmark datasets.
@@ -94,7 +94,7 @@ Processing time series with missing segments is a fundamental challenge that put
     onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
 Osman Berke Güney, <strong>Emirhan&nbsp;Koç</strong>, Can Aksoy, Yiğit Çatak, Şuayip S. Arslan, Hüseyin Özkan
 <br>
-IEEE Signal Processing and Communication Applications Conference (SIU) <br>
+IEEE Signal Processing and Communication Applications Conference (SIU), 2021 <br>
 
 <div id="mvtsit" style="text-align: justify; display: none" markdown="1">
 Steady-state visual evoked potentials (SSVEP) are commonly used in brain computer interface (BCI) applications such as spelling systems, due to their advantages over other paradigms. In this study, we develop a method for SSVEP-based BCI speller systems, using a known deep neural network (DNN), which includes transfer and ensemble learning techniques. We test performance of our method on publicly available benchmark and BETA datasets with leave-one-subject-out procedure. Our method consists of two stages. In the first stage, a global DNN is trained using data from all subjects except one subject that is excluded for testing. In the second stage, the global model is fine-tuned to each subject whose data are used in the training. Combining the responses of trained DNNs with different weights for each test subject, rather than an equal weight, provide better performance as brain signals may differ significantly between individuals. To this end, weights of DNNs are learnt with SAMME algorithm with using data belonging to the test subject. Our method significantly outperforms canonical correlation analysis (CCA) and filter bank canonical correlation analysis (FBCCA) methods.
