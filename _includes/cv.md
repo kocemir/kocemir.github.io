@@ -89,7 +89,6 @@ Processing time series with missing segments is a fundamental challenge that put
 3.
 </td>
 <td>
-<a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'><img src="images/publications/transformer_renewed.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 <em><a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'>Adaptive Boosting of DNN Ensembles for Brain-Computer Interface Spellers</a> </em> 
 [<a href='javascript:;'
     onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
