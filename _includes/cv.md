@@ -25,8 +25,11 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
     <td>
       <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
       <strong>B.S. in Electronics Engineering</strong>
-      <em>Sabancı University</em>
-   
+       <br>
+         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Thesis: *<a href="https://github.com/bamos/thesis" target="_blank">Differentiable Optimization-Based Modeling for Machine Learning</a>*
+        <br> Advisor: <a href="http://zicokolter.com" target="_blank">J. Zico Kolter</a>
+        </p>
 
     </td>
   </tr>
