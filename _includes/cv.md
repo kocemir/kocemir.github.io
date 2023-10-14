@@ -104,8 +104,6 @@ Steady-state visual evoked potentials (SSVEP) are commonly used in brain compute
 </tr>
 
 
-
-
 </table>
 
 
@@ -113,16 +111,16 @@ Steady-state visual evoked potentials (SSVEP) are commonly used in brain compute
 ## <i class="fa fa-chevron-right"></i> Teaching
 <table class="table table-hover">
 <tr>
-  <td style='padding-right:0'><strong>Graduate AI</strong> (CMU 15-780), TA</td>
-  <td class='col-md-2' style='text-align:right; padding-left:0;'>S2017</td>
+  <td style='padding-right:0'><strong>Neural Networks</strong> (EEE 443/543), TA</td>
+  <td class='col-md-2' style='text-align:right; padding-left:0;'>Fall 2023</td>
 </tr>
 <tr>
-  <td style='padding-right:0'><strong>Distributed Systems</strong> (CMU 15-440/640), TA</td>
-  <td class='col-md-2' style='text-align:right; padding-left:0;'>S2016</td>
+  <td style='padding-right:0'><strong>Digital Signal Processing</strong> (EEE 424), TA</td>
+  <td class='col-md-2' style='text-align:right; padding-left:0;'>Fall 2022, Spring 2023</td>
 </tr>
 <tr>
-  <td style='padding-right:0'><strong>Software Design and Data Structures</strong> (VT CS2114), TA</td>
-  <td class='col-md-2' style='text-align:right; padding-left:0;'>S2013</td>
+  <td style='padding-right:0'><strong>Signals and Systems</strong> (EEE 321), TA</td>
+  <td class='col-md-2' style='text-align:right; padding-left:0;'>Fall 2021, Spring 2022</td>
 </tr>
 </table>
 
