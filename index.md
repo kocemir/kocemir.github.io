@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Emirhan Koç
+title: Brandon Amos
 ---
 
 ---
