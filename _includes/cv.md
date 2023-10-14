@@ -46,7 +46,7 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
 1.
 </td>
 <td>
-<a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'><img src="images/publications/amos2023meta.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+<a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'><img src="images/publications/transformer_renewed.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 <em><a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'>Multivariate Time Series Imputation With Transformers</a> </em> 
 [<a href='javascript:;'
     onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
