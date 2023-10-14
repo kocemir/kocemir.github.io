@@ -1,14 +1,9 @@
 <p align='justify'>
-I am a M.Sc. student at the Electrical and Electronics Engineering department in Bilkent University/KocLab under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof.  Aykut Koc</a>. My main research interests includes
-<b> Machine Learning </b>,<b> Deep Learning </b> and <b> Signal Processing </b> with an emphasis on statistical point of view and mathematical foundations. 
-My research is on learning systems that understand and interact with our world
-and focuses on integrating structural information and domain knowledge into
-these systems to represent non-trivial reasoning operations.
-A key theme of my work in this space involves the use of optimization as
-a differentiable building block in larger architectures that are end-to-end learned.
-I believe that science should be open and reproducible and
-freely publish my research code to <a href="https://github.com/bamos" target="_blank">GitHub</a>.
+I am a M.Sc. student at the Electrical and Electronics Engineering department in Bilkent University/UMRAM under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>. My primary research focus centers on <b> Machine Learning </b>,<b> Deep Learning </b> and <b> Signal Processing </b>with a strong emphasis on the statistical and mathematical foundations underpinning these fields. I seek to design intelligent learning systems that can be seamlessly integrated into multidisciplinary teams. I have had the privilege of gaining hands-on experience during my undergraduate studies, particularly in the development of cutting-edge deep learning-based Brain-Computer Interface (BCI) systems. As part of my master's studies, I have worked on the intersection of signal processing, time series analysis, image processing and natural language processing. I believe that science should be open and reproducible and
+freely publish my research code to <a href="https://github.com/kocemir" target="_blank">GitHub</a>.
 </p><br>
+
+
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -16,7 +11,7 @@ freely publish my research code to <a href="https://github.com/bamos" target="_b
 <table class="table table-hover">
   <tr>
     <td>
-      <span class='cvdate'>2014&nbsp;-&nbsp;2019</span>
+      <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
       <strong>Ph.D. in Computer Science</strong>, <em>Carnegie Mellon University</em>
         (0.00/0.00)
       <br>
@@ -28,9 +23,8 @@ freely publish my research code to <a href="https://github.com/bamos" target="_b
   </tr>
   <tr>
     <td>
-      <span class='cvdate'>2011&nbsp;-&nbsp;2014</span>
-      <strong>B.S. in Computer Science</strong>, <em>Virginia Tech</em>
-        (3.99/4.00)
+      <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
+      <strong>B.S. in Electronics Engineering</strong>, <em>Sabancı University</em>
       <br>
     </td>
   </tr>
