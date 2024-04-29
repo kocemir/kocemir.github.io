@@ -43,7 +43,37 @@ freely publish my research code to <a href="https://github.com/kocemir" target="
 <tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
+
+
 1.
+</td>
+<td>
+<a href='https://ieeexplore.ieee.org/document/10458263' target='_blank'><img src="images/publications/frft_pool_bold2.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+<em><a href='https://ieeexplore.ieee.org/document/10458263' target='_blank'>Trainable Fractional Fourier Transform</a> </em> 
+[<a href='javascript:;'
+    onclick='$("#frac").toggle()'>Abstract</a>]  <br>
+ <strong>Emirhan&nbsp;Koç</strong>, Tuna Alikaşifoğlu, Arda Can Aras, Aykut Koç
+<br>
+IEEE Signal Processing Letters, 2024<br>
+
+<div id="frac" style="text-align: justify; display: none" markdown="1">
+Recently, the fractional Fourier transform (FrFT) has been integrated into distinct deep neural network (DNN) models such as transformers, sequence models, and convolutional neural networks (CNNs). However, in previous works, the fraction order a is merely considered a hyperparameter and selected heuristically or tuned manually to find the suitable values, which hinders the applicability of FrFT in deep neural networks. We extend the scope of FrFT and introduce it as a trainable layer in neural network architectures, where a is learned in the training stage along with the network weights. We mathematically show that a can be updated in any neural network architecture through backpropagation in the network training phase. We also conduct extensive experiments on benchmark datasets encompassing image classification and time series prediction tasks. Our results show that the trainable FrFT layers alleviate the need to search for suitable a and improve performance over time and Fourier domain approaches. We share our publicly available source codes for reproducibility.
+</div>
+
+</td>
+</tr>
+
+<tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
+<td align='right' style='padding-left:0;padding-right:0;'>
+
+
+
+
+
+
+
+
+2.
 </td>
 <td>
 <a href='https://ieeexplore.ieee.org/document/9978636' target='_blank'><img src="images/publications/frac_v3.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -64,11 +94,11 @@ Several signal processing tools are integrated into machine learning models for 
 <tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
-2.
+3.
 </td>
 <td>
 <a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'><img src="images/publications/transformer_renewed.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-<em><a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'>Fractional Fourier Transform in Time Series Prediction</a> </em> 
+<em><a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'>Multivariate Time Series Imputation with Transformers</a> </em> 
 [<a href='javascript:;'
     onclick='$("#mvtsit").toggle()'>Abstract</a>]  <br>
 Ayberk Yarkın Yıldız, <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
@@ -86,7 +116,7 @@ Processing time series with missing segments is a fundamental challenge that put
 <tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
-3.
+4.
 </td>
 <td>
 <em><a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'>Adaptive Boosting of DNN Ensembles for Brain-Computer Interface Spellers</a> </em> 
