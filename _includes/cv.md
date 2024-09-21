@@ -54,12 +54,36 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
 <table class="table table-hover">
 
 
+
+
 <tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
-
-
 1.
+</td>
+<td>
+<a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'><img src="images/publications/maximal.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+<em><a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>Maximally Selective Fractional Fourier Pooling</a> </em> 
+[<a href='javascript:;'
+    onclick='$("#frac").toggle()'>Abstract</a>]  <br>
+ <strong>Emirhan&nbsp;Koç</strong>, Yunus Emre Ekiz, Haldun Özaktaş, and Aykut Koç
+<br>
+IEEE Signal Processing Letters, 2024<br>
+
+<div id="frac" style="text-align: justify; display: none" markdown="1">
+In traditional image classification models, global average pooling is typically employed in the final layer to mitigate model complexity. However, this approach is prone to loss of information while reducing the complexity. Recent studies have proposed alternatives, replacing this layer by propagating information in various domains. In our work, we propose replacing this conventional pooling layer with a fractional Fourier transform (FrFT) based pooling layer. We first transform the feature of the last convolutional layer to the FrFT domain and transfer only the k-largest coefficients to the following layer in each channel, thereby enhancing efficiency by preserving only the essential information. To support our proposal, we conducted experiments on two datasets using various image classification models. Our results show that the integration of the FrFT as a pooling layer not only improves model performances but also does not add significant computational burden to model complexity.
+</div>
+
+</td>
+</tr>
+
+
+
+
+<tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
+<td align='right' style='padding-left:0;padding-right:0;'>
+
+2.
 </td>
 <td>
 <a href='https://ieeexplore.ieee.org/document/10458263' target='_blank'><img src="images/publications/frft_pool_bold2.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -81,13 +105,7 @@ Recently, the fractional Fourier transform (FrFT) has been integrated into disti
 <td align='right' style='padding-left:0;padding-right:0;'>
 
 
-
-
-
-
-
-
-2.
+3.
 </td>
 <td>
 <a href='https://ieeexplore.ieee.org/document/9978636' target='_blank'><img src="images/publications/frac_v3.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -108,7 +126,7 @@ Several signal processing tools are integrated into machine learning models for 
 <tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
-3.
+4.
 </td>
 <td>
 <a href='https://ieeexplore.ieee.org/document/9964035' target='_blank'><img src="images/publications/transformer_renewed.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
@@ -130,7 +148,7 @@ Processing time series with missing segments is a fundamental challenge that put
 <tr id="tr-amos2023tutorial" style="background-color: #ffffd0">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
-4.
+5.
 </td>
 <td>
 <em><a href='https://ieeexplore.ieee.org/document/9477841' target='_blank'>Adaptive Boosting of DNN Ensembles for Brain-Computer Interface Spellers</a> </em> 
@@ -152,15 +170,19 @@ Steady-state visual evoked potentials (SSVEP) are commonly used in brain compute
 
 
 
-## <i class="fa fa-chevron-right"></i> Teaching
+## <i class="fa fa-chevron-right"></i> Academic Duties
 <table class="table table-hover">
+<tr>
+  <td style='padding-right:0'><strong>Review</strong> IEEE Signal Processing Letters</td>
+  <td class='col-md-2' style='text-align:right; padding-left:0;'></td>
+</tr>
 <tr>
   <td style='padding-right:0'><strong>Neural Networks</strong> (EEE 443/543), TA</td>
   <td class='col-md-2' style='text-align:right; padding-left:0;'>Fall 2023</td>
 </tr>
 <tr>
   <td style='padding-right:0'><strong>Digital Signal Processing</strong> (EEE 424), TA</td>
-  <td class='col-md-2' style='text-align:right; padding-left:0;'>Fall 2022, Spring 2023</td>
+  <td class='col-md-2' style='text-align:right; padding-left:0;'>Fall 2022, Spring 2023, Spring 2024, Fall 2024</td>
 </tr>
 <tr>
   <td style='padding-right:0'><strong>Signals and Systems</strong> (EEE 321), TA</td>
@@ -186,7 +208,7 @@ Pytorch, Tensorflow, HuggingFace
 <tr>
   <td class='col-md-2'>Tools</td>
   <td>
- LaTEX, Bash, VSCode, EEGLAB, Qt Designer
+ LaTEX, Bash, VSCode, EEGLAB, Qt Designer, Scanpy, Anndata
   </td>
 </tr>
 </table>
