@@ -89,7 +89,7 @@ In traditional image classification models, global average pooling is typically 
 <a href='https://ieeexplore.ieee.org/document/10458263' target='_blank'><img src="images/publications/frft_pool_bold2.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 <em><a href='https://ieeexplore.ieee.org/document/10458263' target='_blank'>Trainable Fractional Fourier Transform</a> </em> 
 [<a href='javascript:;'
-    onclick='$("#frac").toggle()'>Abstract</a>]  <br>
+    onclick='$("#frac2").toggle()'>Abstract</a>]  <br>
  <strong>Emirhan&nbsp;Koç</strong>, Tuna Alikaşifoğlu, Arda Can Aras, Aykut Koç
 <br>
 IEEE Signal Processing Letters, 2024<br>
@@ -111,7 +111,7 @@ Recently, the fractional Fourier transform (FrFT) has been integrated into disti
 <a href='https://ieeexplore.ieee.org/document/9978636' target='_blank'><img src="images/publications/frac_v3.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
 <em><a href='https://ieeexplore.ieee.org/document/9978636' target='_blank'>Fractional Fourier Transform in Time Series Prediction</a> </em> 
 [<a href='javascript:;'
-    onclick='$("#frac").toggle()'>Abstract</a>]  <br>
+    onclick='$("#frac3").toggle()'>Abstract</a>]  <br>
  <strong>Emirhan&nbsp;Koç</strong>, Aykut Koç
 <br>
 IEEE Signal Processing Letters, 2022<br>
