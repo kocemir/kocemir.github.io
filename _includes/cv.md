@@ -56,7 +56,7 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
 
 
 
-<tr id="tr-amos2023tutorial" style="background-color: #d0f0ff">
+<tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
 1.
@@ -80,7 +80,7 @@ In traditional image classification models, global average pooling is typically 
 
 
 
-<tr id="tr-amos2023tutorial" style="background-color: #d0f0ff">
+<tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
 2.
@@ -101,7 +101,7 @@ Recently, the fractional Fourier transform (FrFT) has been integrated into disti
 </td>
 </tr>
 
-<tr id="tr-amos2023tutorial" style="background-color: #d0f0ff">
+<tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
 
@@ -123,7 +123,7 @@ Several signal processing tools are integrated into machine learning models for 
 </td>
 </tr>
 
-<tr id="tr-amos2023tutorial" style="background-color: #d0f0ff">
+<tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
 4.
@@ -145,7 +145,7 @@ Processing time series with missing segments is a fundamental challenge that put
 </tr>
 
 
-<tr id="tr-amos2023tutorial" style="background-color: #d0f0ff">
+<tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
 <td align='right' style='padding-left:0;padding-right:0;'>
 
 5.
