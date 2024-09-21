@@ -8,6 +8,20 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
+
+
+  <tr>
+    <td>
+      <span class='cvdate'>2024&nbsp;-&nbsp;Present</span>
+      <strong>Ph.D. in Electrical and Electronics Engineering</strong>   
+      <br>
+      Bilkent University | Ankara, TR
+      <br>
+      Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
+    </td>
+  </tr>
+
+
   <tr>
     <td>
       <span class='cvdate'>2021&nbsp;-&nbsp;2024</span>
@@ -18,6 +32,7 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
       Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
     </td>
   </tr>
+
   <tr>
     <td>
       <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
