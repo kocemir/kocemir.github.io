@@ -196,7 +196,7 @@ Steady-state visual evoked potentials (SSVEP) are commonly used in brain compute
 <tr>
   <td class='col-md-2'>Programming</td>
   <td>
-C++,  Python, Matlab
+C/C++,  Python, Matlab, HTML, Flutter
   </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ Pytorch, Tensorflow, HuggingFace
 <tr>
   <td class='col-md-2'>Tools</td>
   <td>
- LaTEX, Bash, VSCode, EEGLAB, Qt Designer, Scanpy, Anndata
+ LaTEX, Linux, Bash, VSCode, EEGLAB, Qt Designer, SciPy, Pandas, Scanpy, Anndata
   </td>
 </tr>
 </table>
