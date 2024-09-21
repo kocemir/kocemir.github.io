@@ -94,7 +94,7 @@ In traditional image classification models, global average pooling is typically 
 <br>
 IEEE Signal Processing Letters, 2024<br>
 
-<div id="frac" style="text-align: justify; display: none" markdown="1">
+<div id="frac2" style="text-align: justify; display: none" markdown="1">
 Recently, the fractional Fourier transform (FrFT) has been integrated into distinct deep neural network (DNN) models such as transformers, sequence models, and convolutional neural networks (CNNs). However, in previous works, the fraction order a is merely considered a hyperparameter and selected heuristically or tuned manually to find the suitable values, which hinders the applicability of FrFT in deep neural networks. We extend the scope of FrFT and introduce it as a trainable layer in neural network architectures, where a is learned in the training stage along with the network weights. We mathematically show that a can be updated in any neural network architecture through backpropagation in the network training phase. We also conduct extensive experiments on benchmark datasets encompassing image classification and time series prediction tasks. Our results show that the trainable FrFT layers alleviate the need to search for suitable a and improve performance over time and Fourier domain approaches. We share our publicly available source codes for reproducibility.
 </div>
 
@@ -116,7 +116,7 @@ Recently, the fractional Fourier transform (FrFT) has been integrated into disti
 <br>
 IEEE Signal Processing Letters, 2022<br>
 
-<div id="frac" style="text-align: justify; display: none" markdown="1">
+<div id="frac3" style="text-align: justify; display: none" markdown="1">
 Several signal processing tools are integrated into machine learning models for performance and computational cost improvements. Fourier transform (FT) and its variants, which are powerful tools for spectral analysis, are employed in the prediction of univariate time series by converting them to sequences in the spectral domain to be processed further by recurrent neural networks (RNNs). This approach increases the prediction performance and reduces training time compared to conventional methods. In this letter, we introduce fractional Fourier transform (FrFT) to time series prediction by RNNs. As a parametric transformation, FrFT allows us to seek and select better-performing transformation domains by providing access to a continuum of domains between time and frequency. This flexibility yields significant improvements in the prediction power of the underlying models without sacrificing computational efficiency. We evaluated our FrFT-based time series prediction approach on synthetic and real-world datasets. Our results show that FrFT gives rise to performance improvements over ordinary FT.
 </div>
 
