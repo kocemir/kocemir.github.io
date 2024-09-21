@@ -36,7 +36,7 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
   <tr>
     <td>
       <span class='cvdate'>2016&nbsp;-&nbsp;2021</span>
-      <strong>B.S. in Electronics Engineering</strong>
+      <strong>B.Sc. in Electronics Engineering</strong>
       <br>
       Sabancı University | Istanbul, TR
     </td>
