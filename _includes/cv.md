@@ -173,7 +173,7 @@ Steady-state visual evoked potentials (SSVEP) are commonly used in brain compute
 ## <i class="fa fa-chevron-right"></i> Academic Duties
 <table class="table table-hover">
 <tr>
-  <td style='padding-right:0'><strong>IEEE Signal Processing Letters</strong, Reviewer </td>
+  <td style='padding-right:0'><strong>IEEE Signal Processing Letters</strong>, Reviewer </td>
   <td class='col-md-2' style='text-align:right; padding-left:0;'></td>
 </tr>
 <tr>
