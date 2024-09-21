@@ -17,7 +17,7 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
       <br>
       Bilkent University | Ankara, TR
       <br>
-      Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
+      Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assist. Prof. Aykut Koc</a>
     </td>
   </tr>
 
@@ -29,7 +29,7 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
       <br>
       Bilkent University | Ankara, TR
       <br>
-      Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assoc. Prof. Aykut Koc</a>
+      Advisor: <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assist. Prof. Aykut Koc</a>
     </td>
   </tr>
 
