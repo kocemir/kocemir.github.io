@@ -1,5 +1,5 @@
 <p align='justify'>
-I am a first year Ph.D. student at the Electrical and Electronics Engineering department in Bilkent University/UMRAM under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assist. Prof. Aykut Koc</a>. I have completed my M.Sc. and B. Sc. in the same department at Bilkent University and Sabancı University, respectively. My primary research focus centers on <b> Machine Learning </b>,<b> Deep Learning </b> and <b> Signal Processing </b>with a strong emphasis on the statistical and mathematical foundations underpinning these fields. I seek to design intelligent learning systems that can be seamlessly integrated into multidisciplinary teams. I have had the privilege of gaining hands-on experience during my undergraduate studies, particularly in the development of cutting-edge deep learning-based Brain-Computer Interface (BCI) systems. As part of my master's studies, I have worked on the intersection of signal processing, time series analysis, image processing and natural language processing. Currently, I am working on graph neural networks and large language models, their applications on computational biology, in particular transcriptomics studies. I believe that science should be open and reproducible and freely publish my research code to <a href="https://github.com/kocemir" target="_blank">GitHub</a>.
+I am a first year Ph.D. student at the Electrical and Electronics Engineering department in Bilkent University/UMRAM under the supervision of <a href="http://aykut.koc.bilkent.edu.tr/" target="_blank"> Assist. Prof. Aykut Koc</a>. I have completed my M.Sc. and B. Sc. in the same department at Bilkent University and Sabancı University, respectively. My primary research focus centers on <b> Machine Learning </b>,<b> Deep Learning </b> and <b> Signal Processing </b>with a strong emphasis on the statistical and mathematical foundations underpinning these fields. I seek to design intelligent learning systems that can be seamlessly integrated into multidisciplinary teams. I have had the privilege of gaining hands-on experience during my undergraduate studies, particularly in the development of cutting-edge deep learning-based Brain-Computer Interface (BCI) systems. As part of my master's studies, I have worked on the intersection of signal processing, time series analysis, image processing and natural language processing. Currently, I am working on graph neural networks and large language models, and their applications on computational biology, in particular transcriptomics studies. I believe that science should be open and reproducible and freely publish my research code to <a href="https://github.com/kocemir" target="_blank">GitHub</a>.
 </p><br>
 
 
@@ -57,26 +57,27 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
 
 
 <tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
-<td align='right' style='padding-left:0;padding-right:0;'>
+    <td>
+        <a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>
+            <img src="images/publications/maximal.png" onerror="this.style.display='none'" class="publicationImg" />
+        </a>
+    </td>
+    <td align='right' style='padding-left:0;padding-right:0;'>
+        1.
+    </td>
+    <td>
+        <em><a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>Maximally Selective Fractional Fourier Pooling</a> </em> 
+        [<a href='javascript:;'
+            onclick='$("#frac").toggle()'>Abstract</a>]  <br>
+        <strong>Emirhan&nbsp;Koç</strong>, Yunus Emre Ekiz, Haldun Özaktaş, and Aykut Koç
+        <br>
+        IEEE Signal Processing and Communication Applications Conference (SIU), 2024<br>
 
-1.
-</td>
-<td>
-<a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'><img src="images/publications/maximal.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
-<em><a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>Maximally Selective Fractional Fourier Pooling</a> </em> 
-[<a href='javascript:;'
-    onclick='$("#frac").toggle()'>Abstract</a>]  <br>
- <strong>Emirhan&nbsp;Koç</strong>, Yunus Emre Ekiz, Haldun Özaktaş, and Aykut Koç
-<br>
-IEEE Signal Processing and Communication Applications Conference (SIU), 2024<br>
-
-<div id="frac" style="text-align: justify; display: none" markdown="1">
-In traditional image classification models, global average pooling is typically employed in the final layer to mitigate model complexity. However, this approach is prone to loss of information while reducing the complexity. Recent studies have proposed alternatives, replacing this layer by propagating information in various domains. In our work, we propose replacing this conventional pooling layer with a fractional Fourier transform (FrFT) based pooling layer. We first transform the feature of the last convolutional layer to the FrFT domain and transfer only the k-largest coefficients to the following layer in each channel, thereby enhancing efficiency by preserving only the essential information. To support our proposal, we conducted experiments on two datasets using various image classification models. Our results show that the integration of the FrFT as a pooling layer not only improves model performances but also does not add significant computational burden to model complexity.
-</div>
-
-</td>
+        <div id="frac" style="text-align: justify; display: none" markdown="1">
+            In traditional image classification models, global average pooling is typically employed in the final layer to mitigate model complexity. However, this approach is prone to loss of information while reducing the complexity. Recent studies have proposed alternatives, replacing this layer by propagating information in various domains. In our work, we propose replacing this conventional pooling layer with a fractional Fourier transform (FrFT) based pooling layer. We first transform the feature of the last convolutional layer to the FrFT domain and transfer only the k-largest coefficients to the following layer in each channel, thereby enhancing efficiency by preserving only the essential information. To support our proposal, we conducted experiments on two datasets using various image classification models. Our results show that the integration of the FrFT as a pooling layer not only improves model performances but also does not add significant computational burden to model complexity.
+        </div>
+    </td>
 </tr>
-
 
 
 
