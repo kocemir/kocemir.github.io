@@ -56,24 +56,27 @@ I am a first year Ph.D. student at the Electrical and Electronics Engineering de
 
 
 
-<tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
-    <td style="display: flex; align-items: center;">
-        <a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>
-            <img src="images/publications/maximal.png" onerror="this.style.display='none'" class="publicationImg" style="margin-right: 8px;" />
-        </a>
-        <span>1.</span>
-    </td>
-    <td>
-        <em><a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>Maximally Selective Fractional Fourier Pooling</a> </em> 
-        [<a href='javascript:;' onclick='$("#frac").toggle()'>Abstract</a>]<br>
-        <strong>Emirhan&nbsp;Koç</strong>, Yunus Emre Ekiz, Haldun Özaktaş, and Aykut Koç<br>
-        IEEE Signal Processing and Communication Applications Conference (SIU), 2024<br>
+<tr id="tr-amos2023tutorial" style="background-color: #ffffff">
+<td align='right' style='padding-left:0;padding-right:0;'>
 
-        <div id="frac" style="text-align: justify; display: none" markdown="1">
-            In traditional image classification models, global average pooling is typically employed in the final layer to mitigate model complexity. However, this approach is prone to loss of information while reducing the complexity. Recent studies have proposed alternatives, replacing this layer by propagating information in various domains. In our work, we propose replacing this conventional pooling layer with a fractional Fourier transform (FrFT) based pooling layer. We first transform the feature of the last convolutional layer to the FrFT domain and transfer only the k-largest coefficients to the following layer in each channel, thereby enhancing efficiency by preserving only the essential information. To support our proposal, we conducted experiments on two datasets using various image classification models. Our results show that the integration of the FrFT as a pooling layer not only improves model performances but also does not add significant computational burden to model complexity.
-        </div>
-    </td>
+1.
+</td>
+<td>
+<a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'><img src="images/publications/maximal.png" onerror="this.style.display='none'" class="publicationImg" /></a> 
+<em><a href='https://ieeexplore.ieee.org/abstract/document/10600916' target='_blank'>Maximally Selective Fractional Fourier Pooling</a> </em> 
+[<a href='javascript:;'
+    onclick='$("#frac").toggle()'>Abstract</a>]  <br>
+ <strong>Emirhan&nbsp;Koç</strong>, Yunus Emre Ekiz, Haldun Özaktaş, and Aykut Koç
+<br>
+IEEE Signal Processing and Communication Applications Conference (SIU), 2024<br>
+
+<div id="frac" style="text-align: justify; display: none" markdown="1">
+In traditional image classification models, global average pooling is typically employed in the final layer to mitigate model complexity. However, this approach is prone to loss of information while reducing the complexity. Recent studies have proposed alternatives, replacing this layer by propagating information in various domains. In our work, we propose replacing this conventional pooling layer with a fractional Fourier transform (FrFT) based pooling layer. We first transform the feature of the last convolutional layer to the FrFT domain and transfer only the k-largest coefficients to the following layer in each channel, thereby enhancing efficiency by preserving only the essential information. To support our proposal, we conducted experiments on two datasets using various image classification models. Our results show that the integration of the FrFT as a pooling layer not only improves model performances but also does not add significant computational burden to model complexity.
+</div>
+
+</td>
 </tr>
+
 
 
 
