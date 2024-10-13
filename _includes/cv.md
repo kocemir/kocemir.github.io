@@ -146,7 +146,7 @@ Processing time series with missing segments is a fundamental challenge that put
 
 
 <tr id="tr-amos2023tutorial" style="background-color: #d5e8e6">
-<td align='right' style='padding-left:0;padding-right:0;'>
+<td align='left' style='padding-left:0;padding-right:0;'>
 
 5.
 </td>
