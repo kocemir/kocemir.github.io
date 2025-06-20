@@ -443,13 +443,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-graduate-from-bilkent-university-with-m-sc-degree",
+          section: "News",},{id: "news-graduate-from-bilkent-university-with-m-sc-degree",
           title: 'Graduate from Bilkent University with M.Sc. degree',
+          description: "",
+          section: "News",},{id: "news-best-poster-presentation-award-at-annual-graduate-research-conference-at-bilkent",
+          title: '“Best Poster Presentation Award at annual Graduate Research Conference at Bilkent!”',
           description: "",
           section: "News",},{id: "news-our-paper-emotion-classification-with-visibility-graphs-has-been-accepted-for-publication-in-ieee-signal-processing-letters",
           title: 'Our paper “Emotion Classification with Visibility Graphs” has been accepted for publication in...',
