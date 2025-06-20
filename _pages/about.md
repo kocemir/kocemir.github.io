@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Bilkent University, Department of Electrical and Electronics Engineering; National Magnetic Resonance Research Center (UMRAM).
+
 
 profile:
   align: right
