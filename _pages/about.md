@@ -22,14 +22,9 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a graduate research assistant in the Electrical and Electronics Engineering Department at Bilkent University, under the supervision of Assist. Prof. Aykut Koç. I hold an M.Sc. degree from Bilkent University and a B.Sc. degree from Sabancı University. My primary research interests include Machine Learning, Deep Learning, and Signal Processing, with a particular emphasis on their statistical and mathematical foundations. My objective is to develop intelligent learning systems that can be seamlessly integrated into multidisciplinary research frameworks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my undergraduate studies, I gained practical experience in the development of advanced deep learning-based Brain-Computer Interface (BCI) systems. During my master's studies, I worked at the intersection of signal processing, time series analysis, image processing, and natural language processing. Currently, my research focuses on graph neural networks and large language models, and their applications across diverse domains, including biology and linguistics. Building upon my broad experience across multiple fields, I am open to research opportunities in AI and machine learning applications in science, medicine, healthcare, and computational biology.
