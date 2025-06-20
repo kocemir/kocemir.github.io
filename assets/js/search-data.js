@@ -448,11 +448,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-graduate-from-bilkent-university-with-m-sc-degree",
+            },},{id: "news-graduate-from-bilkent-university-with-m-sc-degree",
           title: 'Graduate from Bilkent University with M.Sc. degree',
+          description: "",
+          section: "News",},{id: "news-our-paper-emotion-classification-with-visibility-graphs-has-been-accepted-for-publication-ieee-signal-processing-letters",
+          title: 'Our paper Emotion Classification with Visibility Graphs has been accepted for publication IEEE...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
