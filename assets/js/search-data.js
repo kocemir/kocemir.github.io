@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-graduate-from-bilkent-university-with-m-sc-degree",
+            },},{id: "news-graduate-from-bilkent-university-with-m-sc-degree",
           title: 'Graduate from Bilkent University with M.Sc. degree',
           description: "",
           section: "News",},{id: "news-best-poster-presentation-award-at-annual-graduate-research-conference-at-bilkent",
@@ -451,6 +448,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-emotion-classification-with-visibility-graphs-has-been-accepted-for-publication-in-ieee-signal-processing-letters",
           title: 'Our paper “Emotion Classification with Visibility Graphs” has been accepted for publication in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-scgrapht-merging-transformers-and-graph-neural-networks-for-single-cell-annotation-has-been-accepted-for-publication-in-ieee-transactions-on-signal-and-information-processing-over-networks",
+          title: 'Our paper scGraPhT: Merging Transformers and Graph Neural Networks for Single-Cell Annotation has...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
