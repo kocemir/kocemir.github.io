@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "General Information": {
     "name": "Emirhan Koç",
     "label": "Graduate Student",
     "image": "",
@@ -15,7 +15,7 @@
   },
 
 
-  "work": [
+  "Work Experience": [
     {
       "name": "Turkcell Communication Services Inc.",
       "position": "5G and Beyond Researcher",
@@ -104,8 +104,8 @@
       "name": "Frameworks and Libraries",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Scikit-learn, Pandas, NumPy, SciPy, Scanpy, AnnData,",
-        "Pytorch, TensorFlow, Keras"
+        "Scikit-learn, Scanpy, AnnData, EEGLAB, QtDesigner",
+        "Pytorch, TensorFlow, HuggingFace"
       ]
     }
 
