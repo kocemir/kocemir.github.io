@@ -14,54 +14,38 @@
       "region": "Ankara"
     }
   },
-
-
   "work": [
     {
       "name": "Turkcell Communication Services Inc.",
       "position": "5G and Beyond Researcher",
-
       "startDate": "2022-04-25",
       "endDate": "2024-08-31",
-      "summary": "Machine learning researcher as part of master's thesis"    }
+      "summary": "Conducted machine learning research as part of master's thesis"
+    }
   ],
-
   "education": [
     {
       "institution": "Bilkent University",
-      "location": "Ankara, Turkey", 
+      "location": "Ankara, Turkey",
       "studyType": "PhD",
-      "startDate": "2024-09-01  ",
+      "startDate": "2024-09-01",
       "endDate": "Present"
-    }
-  ,
+    },
     {
       "institution": "Bilkent University",
       "location": "Ankara, Turkey",
       "studyType": "Master of Science",
       "startDate": "2021-09-01",
-      "endDate": "2024-08-31",
-
+      "endDate": "2024-08-31"
     },
     {
       "institution": "Sabancı University",
       "location": "İstanbul, Turkey",
       "studyType": "Bachelor of Science",
       "startDate": "2016-09-01",
-      "endDate": "2021-06-25",
-
+      "endDate": "2021-06-25"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-
   "skills": [
     {
       "name": "Engineering",
@@ -74,10 +58,9 @@
         "Machine Learning",
         "Deep Learning"
       ]
-    }
-    ,
-      {
-      "name": "Programming Languages  ",
+    },
+    {
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "C++",
@@ -86,17 +69,21 @@
         "R"
       ]
     },
-
-{
+    {
       "name": "Frameworks and Libraries",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Scikit-learn, Pandas, NumPy, SciPy, Scanpy, AnnData,",
-        "Pytorch, TensorFlow, Keras"
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "SciPy",
+        "Scanpy",
+        "AnnData",
+        "Pytorch",
+        "TensorFlow",
+        "Keras"
       ]
     }
-
-
   ],
   "languages": [
     {
@@ -108,5 +95,4 @@
       "fluency": "Native"
     }
   ]
-  
 }
