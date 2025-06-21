@@ -14,29 +14,34 @@
       "region": "Ankara"
     }
   },
+
+
   "work": [
     {
       "name": "Turkcell Communication Services Inc.",
       "position": "5G and Beyond Researcher",
+
       "startDate": "2022-04-25",
       "endDate": "2024-08-31",
-      "summary": "Conducted machine learning research as part of master's thesis"
-    }
+      "summary": "Machine learning researcher as part of master's thesis"    }
   ],
+
   "education": [
     {
       "institution": "Bilkent University",
-      "location": "Ankara, Turkey",
+      "location": "Ankara, Turkey", 
       "studyType": "PhD",
-      "startDate": "2024-09-01",
+      "startDate": "2024-09-01  ",
       "endDate": "Present"
-    },
+    }
+  ,
     {
       "institution": "Bilkent University",
       "location": "Ankara, Turkey",
       "studyType": "Master of Science",
       "startDate": "2021-09-01",
-      "endDate": "2024-08-31"
+      "endDate": "2024-08-31",
+
     },
     {
       "institution": "Sabancı University",
@@ -44,6 +49,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2016-09-01",
       "endDate": "2021-06-25"
+
     }
   ],
   "skills": [
@@ -58,9 +64,10 @@
         "Machine Learning",
         "Deep Learning"
       ]
-    },
-    {
-      "name": "Programming Languages",
+    }
+    ,
+      {
+      "name": "Programming Languages  ",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "C++",
@@ -69,21 +76,17 @@
         "R"
       ]
     },
-    {
+
+{
       "name": "Frameworks and Libraries",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Scikit-learn",
-        "Pandas",
-        "NumPy",
-        "SciPy",
-        "Scanpy",
-        "AnnData",
-        "Pytorch",
-        "TensorFlow",
-        "Keras"
+        "Scikit-learn, Pandas, NumPy, SciPy, Scanpy, AnnData,",
+        "Pytorch, TensorFlow, Keras"
       ]
     }
+
+
   ],
   "languages": [
     {
@@ -95,4 +98,5 @@
       "fluency": "Native"
     }
   ]
+  
 }
