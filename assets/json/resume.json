@@ -23,7 +23,31 @@
 
       "startDate": "2022-04-25",
       "endDate": "2024-08-31",
-      "summary": "Machine learning researcher as part of master's thesis"    }
+      "summary": "Machine learning researcher as part of master's thesis"    },
+
+      {
+
+      "name": "Bilkent University",
+      "position": "Research and Teaching Assistant",
+      "startDate": "2021-09-01", 
+      "endDate": "Present"
+      },
+
+      {
+      "name": "Turkcell Communication Services Inc.",
+      "position": "Part-Time Engineering Intern",
+      "startDate": "2020-07-01",
+      "endDate": "2021-03-31"
+      },
+
+      {
+        "name": "ASELSAN",
+        "position": "Summer Intern",
+        "startDate": "2019-08-01",
+        "endDate": "2019-08-31"
+      }
+
+
   ],
 
   "education": [
