@@ -1,7 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - kocemir
 repo_description_lines_max: 2
 
 github_repos:
@@ -9,4 +7,4 @@ github_repos:
   - koc-lab/FrFTimeSeries
   - kocemir/Fractional-Fourier-Transform-Pytorch-Implementation
   - Attakuan/pulse-stylegan2-implementation
-  - kocemir/MSFrFP
+   -kocemir/MSFrFP
