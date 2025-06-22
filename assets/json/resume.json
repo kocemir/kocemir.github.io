@@ -135,7 +135,43 @@
     "venue": "NeurIPS",
     "year": "2023"
   }
+],
+"taship": [
+  {
+    "course": "Introduction to Probability",
+    "code": "MATH203",
+    "level": "Undergraduate"
+  },
+  {
+    "course": "Digital Communications",
+    "code": "EE314",
+    "level": "Undergraduate"
+  },
+  {
+    "course": "Signals and Systems",
+    "code": "EEE321",
+    "level": "Undergraduate"
+  },
+  {
+    "course": "Digital Signal Processing",
+    "code": "EEE424",
+    "level": "Undergraduate"
+  },
+  {
+    "course": "Neural Networks",
+    "code": "EEE443/543",
+    "level": "Undergraduate / Graduate"
+  },
+
+  {
+    "course":"Natural Language Processing",
+    "code": "EEE486/586",        
+    "level": "Undergraduate / Graduate"
+  }
+
+
 ]
+
 
   
 }

@@ -1,0 +1,13 @@
+{% if taship %}
+<section class="taship">
+  <h2>Teaching Assistantship</h2>
+  <ul>
+    {% for item in taship %}
+      <li>
+        {{ item.course }} {% if item.code %} ({{ item.code }}){% endif %}
+        {% if item.level %} — {{ item.level }}{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
