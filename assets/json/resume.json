@@ -120,6 +120,17 @@
       "language": "Turkish",
       "fluency": "Native"
     }
+  ],
+
+    "deneme": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Native"
+    }
   ]
   
 }
