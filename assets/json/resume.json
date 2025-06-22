@@ -1,5 +1,5 @@
 {
-  "General Information": {
+  "basics": {
     "name": "Emirhan Koç",
     "label": "Graduate Student",
     "image": "",
@@ -15,7 +15,7 @@
   },
 
 
-  "Work Experience": [
+  "work": [
     {
       "name": "Turkcell Communication Services Inc.",
       "position": "5G and Beyond Researcher",
