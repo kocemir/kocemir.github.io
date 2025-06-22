@@ -1,9 +1,9 @@
-{% if reviewership %}
+{% if data[1].size > 0 %}
 <section class="reviewership">
-  <h2>Technical Reviewership</h2>
+  <h2>Academic Reviewership</h2>
   <ul>
-    {% for item in reviewership %}
-      <li>{{ item.venue }} ({{ item.year }})</li>
+    {% for item in data[1] %}
+      <li>{{ item.venue }}</li>
     {% endfor %}
   </ul>
 </section>
