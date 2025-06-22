@@ -124,16 +124,20 @@
 
   "reviewership": [
   {
-    "venue": "IEEE Signal Processing Letters",
-    "year": "2025"
+    "venue": "IEEE Signal Processing Letters"
+ 
   },
   {
-    "venue": "ICLR",
+    "venue": "IEEE International Symposium on Biomedical Imaging",
     "year": "2024"
   },
   {
-    "venue": "NeurIPS",
-    "year": "2023"
+    "venue": "Springer Scientific Reports"
+  
+  },
+    {
+    "venue": "International Journal of Data Science and Analytics"
+  
   }
 ],
 "taship": [
