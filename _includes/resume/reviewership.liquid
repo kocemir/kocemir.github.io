@@ -1,0 +1,10 @@
+{% if reviewership %}
+<section class="reviewership">
+  <h2>Technical Reviewership</h2>
+  <ul>
+    {% for item in reviewership %}
+      <li>{{ item.venue }} ({{ item.year }})</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

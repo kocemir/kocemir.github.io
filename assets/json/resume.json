@@ -122,15 +122,20 @@
     }
   ],
 
-    "deneme2": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Turkish",
-      "fluency": "Native"
-    }
-  ]
+  "reviewership": [
+  {
+    "venue": "IEEE Signal Processing Letters",
+    "year": "2025"
+  },
+  {
+    "venue": "ICLR",
+    "year": "2024"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": "2023"
+  }
+]
+
   
 }
